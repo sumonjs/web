@@ -79,6 +79,11 @@
 .footer-right ul li:last-child {
   margin-bottom: 0;
 }
+.card{
+color:"red";
+  background color:"#ddd"
+  
+}
 
 /* Media query for responsive design */
 @media screen and (max-width: 768px) {
